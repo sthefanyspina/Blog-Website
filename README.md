@@ -1,3 +1,3 @@
 # Blog-Website
 
-Create a responsive website for blogging using HTML, CSS and jQuery
+## for index.html , style.css and main.js follow up with the video
